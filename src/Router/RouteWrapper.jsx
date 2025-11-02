@@ -1,6 +1,6 @@
 import React from 'react'
 import { Route, Routes } from 'react-router-dom'
-import Login from '../component/login/login'
+import Login from '../component/Login/Login'
 import Dash from '../component/Dasboard/Dash'
 import Project from '../component/Project/Project'
 import Task from '../component/Task/Task'
