@@ -5,6 +5,7 @@ import Dash from '../component/Dasboard/Dash'
 import Project from '../component/Project/Project'
 
 import Register from '../component/Login/Register'
+import Task from '../component/Task/Task'
 
 const RouteWrapper = () => {
   return (
