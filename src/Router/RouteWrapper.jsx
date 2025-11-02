@@ -4,7 +4,7 @@ import { Route, Routes } from 'react-router-dom'
 import Dash from '../component/Dasboard/Dash'
 import Project from '../component/Project/Project'
 import Task from '../component/Task/Task'
-import Login from '../component/login/login'
+import Login from '../component/Login/Login'
 
 const RouteWrapper = () => {
   return (
